@@ -1,0 +1,48 @@
+[
+    {
+        "name": "aerofgt",
+        "displayName": {
+            "default": "Aero Fighters",
+            "zh": "Aero Fighters"
+        },
+        "description": {
+            "default": "description of Aero Fighters",
+            "zh": "Aero Fighters的介绍"
+        },
+        "boxart": "http://thegamesdb.net/banners/_gameviewcache/boxart/original/front/7888-1.jpg",
+        "fanart": "http://thegamesdb.net/banners/fanart/original/7888-1.jpg",
+        "system": "arcade",
+        "url": "http://download.freeroms.com/mame_roms/a/aerofgt.zip",
+        "version": "1.0.0",
+        "dependencies": [
+            {
+                "name": "neogeo",
+                "url": "http://download.freeroms.com/mame_roms/n/neogeo.zip",
+                "path": "system/neogeo.zip"
+            }
+        ]
+    },
+    {
+        "name": "mslug3",
+        "displayName": {
+            "default": "Metal Slug 3",
+            "zh": "合金弹头 3"
+        },
+        "description": {
+            "default": "description of Metal Slug 3",
+            "zh": "Metal Slug 3的介绍"
+        },
+        "boxart": "http://thegamesdb.net/banners/_gameviewcache/boxart/original/front/224-1.jpg",
+        "fanart": "http://thegamesdb.net/banners/fanart/original/224-1.jpg",
+        "system": "arcade",
+        "url": "http://download.freeroms.com/mame_roms/m/mslug3.zip",
+        "version": "1.0.0",
+        "dependencies": [
+            {
+                "name": "neogeo",
+                "url": "http://download.freeroms.com/mame_roms/n/neogeo.zip",
+                "path": "system/neogeo.zip"
+            }
+        ]
+    },
+]

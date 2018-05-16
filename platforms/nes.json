@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Contra",
+        "displayName": {
+            "default": "Contra (J)",
+            "zh": "魂斗罗"
+        },
+        "description": {
+            "default": "description of Contra",
+            "zh": "魂斗罗的介绍"
+        },
+        "boxart": "http://thegamesdb.net/banners/_gameviewcache/boxart/original/front/1259-1.jpg",
+        "fanart": "http://thegamesdb.net/game/1259/images/bg-main-background.jpg",
+        "developer": "Konami",
+        "system": "nes",
+        "url": "http://download.freeroms.com/nes_roms/02/contra.zip",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Test",
+        "displayName": {
+            "default": "Contra (J)TEst",
+            "zh": "魂斗罗测试"
+        },
+        "description": {
+            "default": "description of Contra",
+            "zh": "魂斗罗的介绍"
+        },
+        "boxart": "http://thegamesdb.net/banners/_gameviewcache/boxart/original/front/1259-1.jpg",
+        "fanart": "http://thegamesdb.net/game/1259/images/bg-main-background.jpg",
+        "developer": "Konami",
+        "system": "nes",
+        "url": "http://download.freeroms.com/mame_roms/a/aerofgt.zip",
+        "version": "1.0.0"
+    }
+]

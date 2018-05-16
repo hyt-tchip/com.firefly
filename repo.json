@@ -1,0 +1,23 @@
+{
+    "id": "com.firefly",
+    "name": {
+        "default": "Example repository",
+        "zh": "仓库示例"
+    },
+    "description": {
+        "default": "this is a example of a repo",
+        "zh": "这是一个示例仓库"
+    },
+    "version": "1.0.0",
+    "url": "https://github.com/hyt-tchip/com.firefly/raw/master/repo.json",
+    "platforms": [
+        {
+            "platformId": "nes",
+            "url": "https://github.com/hyt-tchip/com.firefly/raw/master/nes.json"
+        },
+        {
+            "platformId": "arcade",
+            "url": "https://github.com/hyt-tchip/com.firefly/raw/master/arcada.json"
+        }
+    ]
+}
