@@ -9,15 +9,15 @@
         "zh": "这是一个示例仓库"
     },
     "version": "1.0.0",
-    "url": "https://github.com/hyt-tchip/com.firefly/raw/master/repo.json",
+    "url": "https://raw.githubusercontent.com/hyt-tchip/com.firefly/master/repo.json",
     "platforms": [
         {
             "platformId": "nes",
-            "url": "https://github.com/hyt-tchip/com.firefly/raw/master/nes.json"
+            "url": "https://raw.githubusercontent.com/hyt-tchip/com.firefly/master/platforms/nes.json"
         },
         {
             "platformId": "arcade",
-            "url": "https://github.com/hyt-tchip/com.firefly/raw/master/arcada.json"
+            "url": "https://raw.githubusercontent.com/hyt-tchip/com.firefly/master/platforms/arcade.json"
         }
     ]
 }
